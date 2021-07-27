@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About Us"
+    url: "/#about"
+  - title: "Courses"
+    url: "/courses"
