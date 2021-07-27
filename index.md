@@ -1,15 +1,19 @@
 ---
-layout: splash
+layout: single
+classes: wide
+
+sidebar:
+  nav: "main"
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.0"
+  overlay_filter: linear-gradient(rgba(247, 148, 30, 0.5), rgba(0, 0, 0, 0), rgba(37, 170, 225, 0.5))
   overlay_image: /assets/images/splash-page-bg.jpg
   actions:
     - label: "Learn More"
       url: "#about"
   caption: "Photo credit: Unknown"
-excerpt: "Hello World! :D"
+excerpt: "print(\"Hello World! :D\")"
 
 # Feature rows for the courses.
 beginners_course_feature_row:
@@ -69,7 +73,7 @@ team_feature_row:
     excerpt: "Finance"
 ---
 
-# <a name="about"></a> About Us
+## About Us
 
 ![code creators logo](/assets/images/CC-Logo.svg){: .align-left style="min-width: 20%; max-width: 50%;"}
 
@@ -81,16 +85,16 @@ Enactus Sheffield is an international non-profit organization that works with le
 
 [Visit Enactus Sheffield](https://enactussheffield.org/){: .btn .btn--info }
 
-# <a name="courses"></a> Courses
+## Courses
 
 {% include feature_row id="beginners_course_feature_row" type="left" %}
 {% include feature_row id="advanced_course_feature_row" type="right" %}
 
-# <a name="team"></a> Meet The Team
+## Meet The Team
 
 {% include feature_row id="team_feature_row" %}
 
-# <a name="team"></a> Join The Team
+## Join The Team
 
 Are you looking to increase your employability? Stand out to future employers? Demonstrate practical skill and business acumen? All while doing charitable work in the community? Then Enactus Sheffield has the perfect opportunity for you!
 
