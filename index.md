@@ -2,6 +2,8 @@
 layout: single
 classes: wide
 
+title: ""
+
 sidebar:
   nav: "main"
 
