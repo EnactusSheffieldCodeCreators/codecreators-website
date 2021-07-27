@@ -9,7 +9,8 @@ toc_sticky: true
 
 <a href="https://www.powr.io/form-builder/i/27626710#page" class="btn btn--info">Register Here</a>
 
-***Note:** Registration may not work if you are connected to The University of Sheffield VPN or any similar service.*
+Registration may not work if you are connected to The University of Sheffield VPN or a similar service.
+{: .notice--danger}
 
 # Overview
 
@@ -73,3 +74,10 @@ Special Project
 
 ## Week 9 & 10
 Private study before the final submission deadline for the final project.
+
+# Register
+
+<a href="https://www.powr.io/form-builder/i/27626710#page" class="btn btn--info">Register Here</a>
+
+Registration may not work if you are connected to The University of Sheffield VPN or a similar service.
+{: .notice--danger}
