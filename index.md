@@ -2,6 +2,8 @@
 layout: single
 classes: wide
 
+title: ""
+
 sidebar:
   nav: "main"
 
@@ -72,8 +74,6 @@ team_feature_row:
     title: "Beth"
     excerpt: "Finance"
 ---
-
-# Code Creators
 
 ## About Us
 
