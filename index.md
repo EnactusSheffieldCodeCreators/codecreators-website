@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/splash-page-bg.jpg
   actions:
     - label: "Learn More"
-      url: "#about"
+      url: "#about-us"
   caption: "Photo credit: Unknown"
 excerpt: "print(\"Hello World! :D\")"
 
