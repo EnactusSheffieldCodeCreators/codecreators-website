@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: "/"
+    url: "/#top"
   - title: "About Us"
     url: "/#about-us"
   - title: "Courses"
