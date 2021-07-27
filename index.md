@@ -23,7 +23,7 @@ beginners_course_feature_row:
     alt: "Beginner Course"
     title: "Beginner Course"
     excerpt: "Comprehensive 8 week introductory course to Python, consisting of a 1 hour lecture followed by a 1 hour seminar each week. Content covered includes Data Types and Structures, Control Flow, Functions, Modules and File Handling, with a certificate of recognition upon completion. Ideal for those with no prior experience who wish to gain a basic understanding of beginners Python and Programming. All sessions are recorded and they will be accessible by students who miss a session. The sessions are held on Sundays at 1pm, and are open to students as well as non-students."
-    btn_label: "More Info"
+    btn_label: "Beginner Course Information"
     btn_class: "btn--info align-center"
     url: "/courses/beginner-course"
 advanced_course_feature_row:
@@ -31,45 +31,45 @@ advanced_course_feature_row:
     alt: "Advanced Course"
     title: "Advanced Course"
     excerpt: "This year CodeCreators are happy to announce the launch of our advanced course! The advance course builds on what is taught in the beginners course, and aims take foundational knowledge and teach real world application to ensure students know how to maximise their skills. We cover subjects such as web scraping, API, and object orientation. This course has a live lecture at 6pm on a wednesday, which is recorded in case you miss it, and a drop in session held at 1pm on a Sunday. The course is open for students as well as non-students."
-    btn_label: "More Info"
+    btn_label: "Advanced Course Information"
     btn_class: "btn--info align-center"
     url: "courses/advanced-course"
 
 # Feature row for the team section.
 team_feature_row:
-  - image_path: /assets/images/team/elena.jpg
+  - image_path: /assets/images/team/elena.webp
     alt: "Elena"
     title: "Elena"
     excerpt: "Team Leader"
-  - image_path: /assets/images/team/alex.jpg
+  - image_path: /assets/images/team/alex.webp
     alt: "Alex"
     title: "Alex"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/sam.png
+  - image_path: /assets/images/team/sam.webp
     alt: "Sam"
     title: "Sam"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/charlotte.jpg
+  - image_path: /assets/images/team/charlotte.webp
     alt: "Charlotte"
     title: "Charlotte"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/elodie.jpg
+  - image_path: /assets/images/team/elodie.webp
     alt: "Elodie"
     title: "Elodie"
     excerpt: "Public Relations"
-  - image_path: /assets/images/team/nicola.jpg
+  - image_path: /assets/images/team/nicola.webp
     alt: "Nicola"
     title: "Nicola"
     excerpt: "Customer Service"
-  - image_path: /assets/images/team/monica.jpg
+  - image_path: /assets/images/team/monica.webp
     alt: "Monica"
     title: "Monica"
     excerpt: "Public Relations"
-  - image_path: /assets/images/team/Iain.jpg
+  - image_path: /assets/images/team/iain.webp
     alt: "Iain"
     title: "Iain"
     excerpt: "Commercial Outreach"
-  - image_path: /assets/images/team/beth.jpg
+  - image_path: /assets/images/team/beth.webp
     alt: "Beth"
     title: "Beth"
     excerpt: "Finance"
@@ -107,8 +107,8 @@ What we offer in return for your time is the opportunity to drastically increase
 We also help you increase your employability by allowing you to demonstrate your technical abilities in the real world: take your problem solving out of the classroom to tackle live scenarios that arise in a business setting; design and deliver courses actually taken by paying students; showcase yourself to employers in ways your peers can't. Alongside this we offer a programme of LinkedIn recommendations, to verify your skills, and select HEAR accreditation. In short, if you are looking to contribute to society and look good doing it, then the commercial portfolio is the place for you.
 
 <div class="flex-row">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkJYhukydqJ3jV8s02vFMytzesm8rOeX_fIBacLnZsRGmuGw/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" target="_blank" class="btn btn--info">Technical Applications Form</a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBD93O3OY-SLlCq-U3XoxX20AIrJI4cB-UKjVqKZJIE2Iw6A/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" target="_blank" class="btn btn--info">Non-Technical Applications Form</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkJYhukydqJ3jV8s02vFMytzesm8rOeX_fIBacLnZsRGmuGw/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" rel="noopener" target="_blank" class="btn btn--info">Technical Applications Form</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBD93O3OY-SLlCq-U3XoxX20AIrJI4cB-UKjVqKZJIE2Iw6A/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" rel="noopener" target="_blank" class="btn btn--info">Non-Technical Applications Form</a>
 </div>
 <br/>
 # Get in Touch
