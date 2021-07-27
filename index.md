@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 
-title: ""
+title: "Home"
 
 sidebar:
   nav: "main"
