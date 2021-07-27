@@ -3,7 +3,7 @@ layout: splash
 title: Our Team
 permalink: /team/
 
-feature_row:
+team_feature_row:
   - image_path: /assets/images/team/elena.jpg
     alt: "Elena"
     title: "Elena"
@@ -42,4 +42,4 @@ feature_row:
     excerpt: "Finance"
 ---
 
-{% include feature_row %}
+{% include feature_row id="team_feature_row" %}
