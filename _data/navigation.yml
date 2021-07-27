@@ -9,3 +9,5 @@ main:
     url: "/#meet-the-team"
   - title: "Join The Team"
     url: "/#join-the-team"
+  - title: "Get in Touch"
+    url: "/#get-in-touch"

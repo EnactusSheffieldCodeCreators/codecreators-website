@@ -110,3 +110,7 @@ We also help you increase your employability by allowing you to demonstrate your
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkJYhukydqJ3jV8s02vFMytzesm8rOeX_fIBacLnZsRGmuGw/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" target="_blank" class="btn btn--info">Technical Applications Form</a>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBD93O3OY-SLlCq-U3XoxX20AIrJI4cB-UKjVqKZJIE2Iw6A/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;gxids=7628" target="_blank" class="btn btn--info">Non-Technical Applications Form</a>
 </div>
+<br/>
+# Get in Touch
+
+<a href="mailto:codecreators@enactussheffield.org" class="btn btn--info">Email Us</a>
