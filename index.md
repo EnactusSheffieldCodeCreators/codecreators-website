@@ -73,6 +73,8 @@ team_feature_row:
     excerpt: "Finance"
 ---
 
+# Code Creators
+
 ## About Us
 
 ![code creators logo](/assets/images/CC-Logo.svg){: .align-left style="min-width: 20%; max-width: 50%;"}
