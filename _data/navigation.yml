@@ -5,3 +5,5 @@ main:
     url: "/#about"
   - title: "Courses"
     url: "/courses"
+  - title: "Our Team"
+    url: "/team"
