@@ -9,7 +9,7 @@ sidebar:
 
 header:
   overlay_color: "#000"
-  overlay_filter: linear-gradient(rgba(247, 148, 30, 0.5), rgba(0, 0, 0, 0.5), rgba(37, 170, 225, 0.5))
+  overlay_filter: linear-gradient(rgba(247, 148, 30, 0.7), rgba(0, 0, 0, 0.7), rgba(37, 170, 225, 0.7))
   overlay_image: /assets/images/splash-image.webp
   actions:
     - label: "Learn More"
