@@ -113,4 +113,6 @@ We also help you increase your employability by allowing you to demonstrate your
 <br/>
 # Get in Touch
 
-<a href="mailto:codecreators@enactussheffield.org" class="btn btn--info">Email Us</a>
+<!--<a href="mailto:codecreators@enactussheffield.org" class="btn btn--info">Email Us</a>-->
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-858c15c8-4a3d-4d57-9739-38e2f9c299af"></div>
