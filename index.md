@@ -49,6 +49,10 @@ team_feature_row:
     alt: "Leo"
     title: "Leo"
     excerpt: "Programme Designer"
+  - image_path: /assets/images/team/reformatted/navishka.webp
+    alt: "Navishka De Silva"
+    title: "Navishka De Silva"
+    excerpt: "Customer Service Representative"
 ---
 
 ## About Us
