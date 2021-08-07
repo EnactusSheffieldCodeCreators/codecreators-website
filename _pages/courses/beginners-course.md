@@ -14,7 +14,7 @@ Registration may not work if you are connected to The University of Sheffield VP
 
 # Overview
 
-Comprehensive 8 week introductory course to Python, consisting of a 1 hour lecture followed by a 1 hour seminar each week. Content covered includes Data Types and Structures, Control Flow, Functions, Modules and File Handling, with a certificate of recognition upon completion. Ideal for those with no prior experience who wish to gain a basic understanding of beginners Python and Programming. All sessions are recorded and they will be accessible by students who miss a session. The sessions are held on Sundays at 1pm, and are open to students as well as non-students.
+An 8 week introductory course to Python, ideal with those with little to no prior programming experience. By commiting only 2 hours per week, you will learn all the skills you need to start making your own Python projects! Sessions are held on Sundays at 1pm, and are recorded for students who miss a live session. Attending all the lectures will be rewarded with a certificate of completion, and handing in the final project will be rewarded with a certificate of commendation.
 
 # Course Content
 
