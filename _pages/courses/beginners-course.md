@@ -20,7 +20,6 @@ An 8 week introductory course to Python, ideal with those with little to no prio
 
 ## Week 1
 - Introduction to Python
-- Introduction to Jupyter Notebook
 - Data Types
 - Variables (Naming schema)
 - Operators
@@ -36,10 +35,11 @@ An 8 week introductory course to Python, ideal with those with little to no prio
 - Loops Explanation
 - For Loop
 - While Loop
+- Control Statements for Loops
 - Loop Ranging
 
 ## Week 4
-- Creating
+- Collection Data Types
 - Indexing
 - Range of Indexing
 - Changing Items
@@ -47,7 +47,7 @@ An 8 week introductory course to Python, ideal with those with little to no prio
 - Join Lists
 
 ## Week 5
-- Indexing
+- Dictionaries
 - Slicing
 - Negative Indexing
 - Multiline Strings
@@ -63,9 +63,7 @@ An 8 week introductory course to Python, ideal with those with little to no prio
 - Arguments
 
 ## Week 7
-- Creating Dictionaries
-- Reading Dictionaries
-- Dictionary Methods
+- Importing modules
 - Files Reading
 - Files Writting
 
