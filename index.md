@@ -30,7 +30,7 @@ advanced_course_feature_row:
   - image_path: "/assets/images/CC-Logo.svg"
     alt: "Advanced Course"
     title: "Advanced Course"
-    excerpt: "This year CodeCreators are happy to announce the launch of our advanced course! The advance course builds on what is taught in the beginners course, and aims take foundational knowledge and teach real world application to ensure students know how to maximise their skills. We cover subjects such as web scraping, API, and object orientation. This course has a live lecture at 6pm on a wednesday, which is recorded in case you miss it, and a drop in session held at 1pm on a Sunday. The course is open for students as well as non-students."
+    excerpt: "A course focused on equipping students with the skills to start building more advanced projects. Students can expect to leave the course with a detailed knowledge of how to build projects from the ground up utilising object oriented programming, web servers, automated unit testing and a host of other skills. A base level of python skill is required as well as about 5 hours for each week in order to get the most from the course."
     btn_label: "Advanced Course Information"
     btn_class: "btn--info align-center"
     url: "courses/advanced-course"
