@@ -37,42 +37,22 @@ advanced_course_feature_row:
 
 # Feature row for the team section.
 team_feature_row:
-  - image_path: /assets/images/team/elena.webp
-    alt: "Elena"
-    title: "Elena"
-    excerpt: "Team Leader"
-  - image_path: /assets/images/team/alex.webp
-    alt: "Alex"
-    title: "Alex"
-    excerpt: "Programme Designer"
-  - image_path: /assets/images/team/sam.webp
+  - image_path: /assets/images/team/reformatted/sam.webp
     alt: "Sam"
     title: "Sam"
-    excerpt: "Programme Designer"
-  - image_path: /assets/images/team/charlotte.webp
+    excerpt: "Head Programme Designer"
+  - image_path: /assets/images/team/reformatted/charlotte.webp
     alt: "Charlotte"
     title: "Charlotte"
+    excerpt: "Head Programme Designer"
+  - image_path: /assets/images/team/reformatted/leo.webp
+    alt: "Leo"
+    title: "Leo"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/elodie.webp
-    alt: "Elodie"
-    title: "Elodie"
-    excerpt: "Public Relations"
-  - image_path: /assets/images/team/nicola.webp
-    alt: "Nicola"
-    title: "Nicola"
-    excerpt: "Customer Service"
-  - image_path: /assets/images/team/monica.webp
-    alt: "Monica"
-    title: "Monica"
-    excerpt: "Public Relations"
-  - image_path: /assets/images/team/iain.webp
-    alt: "Iain"
-    title: "Iain"
-    excerpt: "Commercial Outreach"
-  - image_path: /assets/images/team/beth.webp
-    alt: "Beth"
-    title: "Beth"
-    excerpt: "Finance"
+  - image_path: /assets/images/team/reformatted/navishka.webp
+    alt: "Navishka De Silva"
+    title: "Navishka De Silva"
+    excerpt: "Customer Service Representative"
 ---
 
 ## About Us
