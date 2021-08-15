@@ -45,6 +45,10 @@ team_feature_row:
     alt: "Charlotte"
     title: "Charlotte"
     excerpt: "Head Programme Designer"
+  - image_path: /assets/images/team/reformatted/andreas.webp
+    alt: "Andreas"
+    title: "Andreas"
+    excerpt: "Programme Designer"
   - image_path: /assets/images/team/reformatted/leo.webp
     alt: "Leo"
     title: "Leo"
