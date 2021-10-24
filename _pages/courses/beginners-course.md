@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-The course has already started this semester, the next course will begin **March 6th 2022**; we will have sign up information for that course soon. If you have any questions, or would like to be reminded when the course goes live please [**email us**](malto:codecreators@enactussheffield.org).
+The course has already started this semester, the next course will begin **March 6th 2022**; we will have sign up information for that course soon. If you have any questions, or would like to be reminded when the course goes live please [**email us**](mailto:codecreators@enactussheffield.org).
 {: .notice--info}
 
 ## Overview
