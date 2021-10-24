@@ -10,7 +10,7 @@ sidebar:
 header:
   overlay_color: "#000"
   overlay_filter: linear-gradient(rgba(247, 148, 30, 0.7), rgba(0, 0, 0, 0.7), rgba(37, 170, 225, 0.7))
-  overlay_image: /assets/images/splash-image.webp
+  overlay_image: assets/images/splash-image.webp
   actions:
     - label: "Learn More"
       url: "#about-us"
@@ -25,7 +25,7 @@ beginners_course_feature_row:
     excerpt: "An 8 week introductory course to Python, ideal with those with little to no prior programming experience. By committing only 2 hours per week, you will learn all the skills you need to start making your own Python projects! Sessions are held on Sundays at 1pm, and are recorded for students who miss a live session. Attending all the lectures will be rewarded with a certificate of completion, and handing in the final project will be rewarded with a certificate of commendation."
     btn_label: "Beginner Course Information"
     btn_class: "btn--info align-center"
-    url: "courses/beginner-course"
+    url: "courses/beginner-course.html"
 advanced_course_feature_row:
   - image_path: "assets/images/CC-Logo.svg"
     alt: "Advanced Course"
@@ -33,7 +33,7 @@ advanced_course_feature_row:
     excerpt: "A course focused on equipping students with the skills to start building more advanced projects. Students can expect to leave the course with a detailed knowledge of how to build projects from the ground up utilising object oriented programming, web servers, automated unit testing and a host of other skills. A base level of python skill is required as well as about 5 hours for each week in order to get the most from the course."
     btn_label: "Advanced Course Information"
     btn_class: "btn--info align-center"
-    url: "courses/advanced-course"
+    url: "courses/advanced-course.html"
 
 # Feature row for the team section.
 team_feature_row:
