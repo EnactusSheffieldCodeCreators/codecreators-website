@@ -11,7 +11,7 @@ toc_sticky: true
     <p>
         This course is currently in the process of being refined after our initial pilot run at the start of 2021. We will return in 2022, please get in touch if you wish to be notified when we open admission.
     </p>
-    <a href="/#get-in-touch" class="btn btn--info">Contact Us</a>
+    <a href="../#get-in-touch" class="btn btn--info">Contact Us</a>
 </div>
 
 # Overview
