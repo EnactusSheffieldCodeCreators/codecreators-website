@@ -7,14 +7,12 @@ toc: true
 toc_sticky: true
 ---
 
-<a href="https://www.powr.io/form-builder/i/27626710#page" class="btn btn--info">Register Here</a>
-
-Registration may not work if you are connected to The University of Sheffield VPN or a similar service.
-{: .notice--danger}
+The course has already started this semester, the next course will begin **March 6th 2022**; we will have sign up information for that course soon. If you have any questions, or would like to be reminded when the course goes live please [**email us**](malto:codecreators@enactussheffield.org).
+{: .notice--info}
 
 ## Overview
 
-An 8 week introductory course to Python, ideal with those with little to no prior programming experience. By committing only 2 hours per week, you will learn all the skills you need to start making your own Python projects! Sessions are held on Sundays at 1pm, and are recorded for students who miss a live session. Attending all the lectures will be rewarded with a certificate of completion, and handing in the final project will be rewarded with a certificate of commendation.
+A 10 week introductory course to Python, ideal with those with little to no prior programming experience. By committing only 2 hours per week, you will learn all the skills you need to start making your own Python projects! Sessions are held on Sundays at 1pm, and are recorded for students who miss a live session. Attending all the lectures will be rewarded with a certificate of completion, and handing in the final project will be rewarded with a certificate of commendation.
 
 ## Course Content
 
@@ -76,15 +74,8 @@ An 8 week introductory course to Python, ideal with those with little to no prio
 
 ### Week 8
 
-Special Project
+Final Project
 
 ### Week 9 & 10
 
-Private study before the final submission deadline for the final project.
-
-## Register
-
-<a href="https://www.powr.io/form-builder/i/27626710#page" class="btn btn--info">Register Here</a>
-
-Registration may not work if you are connected to The University of Sheffield VPN or a similar service.
-{: .notice--danger}
+Time to complete the final project, there are no lectures run these weeks but you will be able to ask questions and talk to the mentors.
