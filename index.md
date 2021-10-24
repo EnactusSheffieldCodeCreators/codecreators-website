@@ -19,15 +19,15 @@ excerpt: "print(\"Hello World! :D\")"
 
 # Feature rows for the courses.
 beginners_course_feature_row:
-  - image_path: "/assets/images/CC-Logo.svg"
+  - image_path: "assets/images/CC-Logo.svg"
     alt: "Beginner Course"
     title: "Beginner Course"
     excerpt: "An 8 week introductory course to Python, ideal with those with little to no prior programming experience. By committing only 2 hours per week, you will learn all the skills you need to start making your own Python projects! Sessions are held on Sundays at 1pm, and are recorded for students who miss a live session. Attending all the lectures will be rewarded with a certificate of completion, and handing in the final project will be rewarded with a certificate of commendation."
     btn_label: "Beginner Course Information"
     btn_class: "btn--info align-center"
-    url: "/courses/beginner-course"
+    url: "courses/beginner-course"
 advanced_course_feature_row:
-  - image_path: "/assets/images/CC-Logo.svg"
+  - image_path: "assets/images/CC-Logo.svg"
     alt: "Advanced Course"
     title: "Advanced Course"
     excerpt: "A course focused on equipping students with the skills to start building more advanced projects. Students can expect to leave the course with a detailed knowledge of how to build projects from the ground up utilising object oriented programming, web servers, automated unit testing and a host of other skills. A base level of python skill is required as well as about 5 hours for each week in order to get the most from the course."
@@ -57,11 +57,11 @@ team_feature_row:
 
 ## About Us
 
-![code creators logo](/assets/images/CC-Logo.svg){: .align-left style="min-width: 20%; max-width: 50%;"}
+![code creators logo](assets/images/CC-Logo.svg){: .align-left style="min-width: 20%; max-width: 50%;"}
 
-We are Code Creators - a student led project teaching students how to code in Python. We came together and created this course as we realised that, nowadays, there is an ever increasing demand for graduates to understand the basics of programming and in many jobs especially those involving quantitative aspects, knowledge of Python is becoming more desirable everyday. Whether you are aspiring to a career in analytics, computer science or looking to start a digital business, our aim is to provide comprehensive beginner classes for people who have an interest in the subject but are unsure where to begin. You will gain fundamental understanding of Python and build confidence to independently delve deeper into the subject. 
+We are Code Creators - a student led project teaching students how to code in Python. We came together and created this course as we realised that, nowadays, there is an ever increasing demand for graduates to understand the basics of programming and in many jobs especially those involving quantitative aspects, knowledge of Python is becoming more desirable everyday. Whether you are aspiring to a career in analytics, computer science or looking to start a digital business, our aim is to provide comprehensive beginner classes for people who have an interest in the subject but are unsure where to begin. You will gain fundamental understanding of Python and build confidence to independently delve deeper into the subject.
 
-[![enactus sheffield logo](/assets/images/enactus-logo.webp){: .align-right style="min-width: 20%; max-width: 50%;"}](https://enactussheffield.org/)
+[![enactus sheffield logo](assets/images/enactus-logo.webp){: .align-right style="min-width: 20%; max-width: 50%;"}](https://enactussheffield.org/)
 
 Enactus Sheffield is an international non-profit organization that works with leaders in business and higher education to mobilize university students to make a difference in their communities while developing the skills to become socially responsible business leaders. CodeCreators falls under the commercial portfolio of Enactus Sheffield because we generate income to financially support other local and international projects.
 
