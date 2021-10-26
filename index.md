@@ -37,6 +37,10 @@ advanced_course_feature_row:
 
 # Feature row for the team section.
 team_feature_row:
+  - image_path: /assets/images/team/reformatted/barbara.webp
+    alt: "Barbara"
+    title: "Barbara"
+    excerpt: "Project Leader"
   - image_path: /assets/images/team/reformatted/sam.webp
     alt: "Sam"
     title: "Sam"
@@ -48,6 +52,10 @@ team_feature_row:
   - image_path: /assets/images/team/reformatted/andreas.webp
     alt: "Andreas"
     title: "Andreas"
+    excerpt: "Programme Designer"
+  - image_path: /assets/images/team/reformatted/gabriella.webp
+    alt: "Gabriella"
+    title: "Gabriella"
     excerpt: "Programme Designer"
   - image_path: /assets/images/team/reformatted/leo.webp
     alt: "Leo"
