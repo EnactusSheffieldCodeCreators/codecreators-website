@@ -41,27 +41,31 @@ team_feature_row:
     alt: "Barbara"
     title: "Barbara"
     excerpt: "Project Leader"
-  - image_path: /assets/images/team/reformatted/sam.webp
+  - image_path: assets/images/team/reformatted/sam.webp
     alt: "Sam"
     title: "Sam"
     excerpt: "Head Programme Designer"
-  - image_path: /assets/images/team/reformatted/charlotte.webp
+  - image_path: assets/images/team/reformatted/charlotte.webp
     alt: "Charlotte"
     title: "Charlotte"
     excerpt: "Head Programme Designer"
-  - image_path: /assets/images/team/reformatted/andreas.webp
+  - image_path: assets/images/team/reformatted/andreas.webp
     alt: "Andreas"
     title: "Andreas"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/reformatted/gabriella.webp
+  - image_path: assets/images/team/reformatted/gabriella.webp
     alt: "Gabriella"
     title: "Gabriella"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/reformatted/leo.webp
+  - image_path: assets/images/team/reformatted/leo.webp
     alt: "Leo"
     title: "Leo"
     excerpt: "Programme Designer"
-  - image_path: /assets/images/team/reformatted/navishka.webp
+  - image_path: assets/images/team/placeholder.svg
+    alt: "Nick"
+    title: "Nick"
+    excerpt: "Programme Designer"
+  - image_path: assets/images/team/reformatted/navishka.webp
     alt: "Navishka De Silva"
     title: "Navishka De Silva"
     excerpt: "Customer Service Representative"
