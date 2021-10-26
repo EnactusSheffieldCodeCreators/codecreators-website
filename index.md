@@ -102,7 +102,7 @@ What we offer in return for your time is the opportunity to drastically increase
 
 We also help you increase your employability by allowing you to demonstrate your technical abilities in the real world: take your problem solving out of the classroom to tackle live scenarios that arise in a business setting; design and deliver courses actually taken by paying students; showcase yourself to employers in ways your peers can't. Alongside this we offer a programme of LinkedIn recommendations, to verify your skills, and select HEAR accreditation. In short, if you are looking to contribute to society and look good doing it, then the commercial portfolio is the place for you.
 
-[Team Applications Form](sign-up){: .btn .btn--info }
+[Team Applications Form](sign-up.html){: .btn .btn--info }
 
 ## Get in Touch
 
